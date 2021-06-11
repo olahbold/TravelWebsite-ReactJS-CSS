@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+In this project, i mainly use React Router, to navigate through and make a feeling of a multi page website.
+The project is only a sample, and isn't a real world project.
+
 ## Available Scripts
 
 In the project directory, you can run:
